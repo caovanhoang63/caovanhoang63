@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hoang and I'm Lords of Shadow</h2>
+<h2 align="left">Hi 👋! My name is Hoang and I'm Lord of Shadow</h2>
 
 ###
 
