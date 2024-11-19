@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="space-between">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caovanhoang63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="right" height="150" src="https://i.pinimg.com/originals/0c/3c/7b/0c3c7b198cfc24ecfbc39319648edf30.gif"  />
 </div>
