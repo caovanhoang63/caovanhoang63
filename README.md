@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Hoang and I'm Lord of Shadow</h2>
 
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/caovanhoang63)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/caovanhoang63)
+
 ###
 
 <div align="space-between">
